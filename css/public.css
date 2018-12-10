@@ -1,0 +1,49 @@
+/*清除默认样式*/
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 36px;
+}
+body{
+    width: 10rem;
+    margin: 0 auto;
+    color: #676767;
+    overflow-y: scroll;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+    font-size: inherit;
+}
+ul{
+    list-style: none;
+}
+input,textarea{
+    outline: none;
+}
+/*公共样式*/
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.cf{
+    clear: both;
+}
+.margin_width{
+    width: 9.5rem;
+    margin: auto;
+}
+.margin_width946{
+    width: 9.5rem;
+    margin: auto;
+}
+.pos_abs{
+    position: absolute;
+}
+
+
+
